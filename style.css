@@ -17,7 +17,52 @@ h2{
 }
 body{
     text-align: center;
+    background-color: beige;
+    border: solid;
+    border-width:medium;
+
   
     
         
 }
+.sp{
+    margin:20%
+}
+#image{
+    width:20%
+}
+.imageColumn {
+   float: center;
+   width: 100%;
+   padding: 10px;
+}
+#myCarousel
+{
+    background-color: yellowgreen;
+    border: solid;
+    border-width: medium;
+ 
+  
+}
+.para{
+    font-size: 50px;
+    text-align: center;
+}
+.img2{
+    width: 350px;
+    height: 300px;
+}
+#myCarousel img
+{
+    background-color: yellowgreen;
+  height: 400px;
+  width: 400px;
+}
+p{
+    
+ 
+    font-size: 50px;
+}
+
+
+
